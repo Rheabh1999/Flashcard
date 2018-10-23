@@ -6,7 +6,7 @@ Simple Flashcard app that displays a question and displays answer to the questio
 ### App Walk-though
 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+![Basic Screen GIF](https://raw.githubusercontent.com/Rheabh1999/Flashcard/master/flashcard.gif) 
 
 
 
